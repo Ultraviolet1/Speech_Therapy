@@ -33,6 +33,7 @@ button {
 .collapsible {
     border: none;
     border-radius: 25px;
+   
 }
 .collapsible-header {
     height: 40px;
@@ -41,11 +42,16 @@ button {
     background-position: center;
     border: none;
     border-radius: 25px;
+    color:white;
 }
 .collapsible-body {
     border: none;
     border-radius: 25px;
-}
+   
+    background: black;
+    
+};
+
 
 /* -------------------------------------------------------------------------------------------- */
 
